@@ -102,5 +102,5 @@ terraform destroy
 - Refactor into **Terraform modules** for reusability and cleaner code structure
 
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d508eca0-9e9a-44a1-a1f6-abf790fa25fe" />
 
-![Architecture Diagram](./diagram.png)
