@@ -1,0 +1,7 @@
+*.auto.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+ssh-key.pem
+.terraform/
+.terraform.lock.hcl
